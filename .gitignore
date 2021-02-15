@@ -62,3 +62,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Demo3EPerson/Library/ArtifactDB-lock
+Demo3EPerson/Library/SourceAssetDB
+Demo3EPerson/Library/SourceAssetDB-lock
